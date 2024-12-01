@@ -65,5 +65,5 @@ If you find the code in this repo useful, please consider citing our paper:
       eprint={2310.03272},
       archivePrefix={arXiv},
       primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2310.03272}, 
+      url=https://arxiv.org/abs/2310.03272, 
 }
