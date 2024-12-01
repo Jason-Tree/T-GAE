@@ -59,11 +59,11 @@ MIT
 If you find the code in this repo useful, please consider citing our paper:
 
 @misc{he2024tgaetransferablegraphautoencoder,
-      title={T-GAE: Transferable Graph Autoencoder for Network Alignment},
+      title={T-GAE: Transferable Graph Autoencoder for Network Alignment}, 
       author={Jiashu He and Charilaos I. Kanatsoulis and Alejandro Ribeiro},
       year={2024},
       eprint={2310.03272},
       archivePrefix={arXiv},
       primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2310.03272},
+      url={https://arxiv.org/abs/2310.03272}, 
 }
