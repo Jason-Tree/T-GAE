@@ -56,7 +56,7 @@ MIT
 
 ## Citation
 
-If you find the code in this repo useful, please consider citing our paper:
+If you find the code or data in this repo useful, please consider citing our paper:
 
 @misc{he2024tgaetransferablegraphautoencoder,
       title={T-GAE: Transferable Graph Autoencoder for Network Alignment}, 
