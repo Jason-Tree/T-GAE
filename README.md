@@ -58,6 +58,11 @@ MIT
 
 If you find the code or data in this repo useful, please consider citing our paper:
 
+## Citing GIVE
+
+If you find the data or code in this repo useful in your research, please consider citing our paper:
+
+```bibtex
 @misc{he2024tgaetransferablegraphautoencoder,
       title={T-GAE: Transferable Graph Autoencoder for Network Alignment}, 
       author={Jiashu He and Charilaos I. Kanatsoulis and Alejandro Ribeiro},
@@ -67,3 +72,4 @@ If you find the code or data in this repo useful, please consider citing our pap
       primaryClass={cs.LG},
       url=https://arxiv.org/abs/2310.03272, 
 }
+```
