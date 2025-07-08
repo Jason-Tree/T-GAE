@@ -63,13 +63,20 @@ If you find the code or data in this repo useful, please consider citing our pap
 If you find the data or code in this repo useful in your research, please consider citing our paper:
 
 ```bibtex
-@misc{he2024tgaetransferablegraphautoencoder,
-      title={T-GAE: Transferable Graph Autoencoder for Network Alignment}, 
-      author={Jiashu He and Charilaos I. Kanatsoulis and Alejandro Ribeiro},
-      year={2024},
-      eprint={2310.03272},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url=https://arxiv.org/abs/2310.03272, 
+@ARTICLE{2023arXiv231003272H,
+       author = {{He}, Jiashu and {Kanatsoulis}, Charilaos I. and {Ribeiro}, Alejandro},
+        title = "{T-GAE: Transferable Graph Autoencoder for Network Alignment}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Machine Learning, Computer Science - Artificial Intelligence},
+         year = 2023,
+        month = oct,
+          eid = {arXiv:2310.03272},
+        pages = {arXiv:2310.03272},
+          doi = {10.48550/arXiv.2310.03272},
+archivePrefix = {arXiv},
+       eprint = {2310.03272},
+ primaryClass = {cs.LG},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv231003272H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
