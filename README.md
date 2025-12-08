@@ -58,10 +58,6 @@ MIT
 
 If you find the code or data in this repo useful, please consider citing our paper:
 
-## Citing GIVE
-
-If you find the data or code in this repo useful in your research, please consider citing our paper:
-
 ```bibtex
 @InProceedings{pmlr-v269-he25a,
   title = 	 {T-Gae: Transferable Graph Autoencoder for Network Alignment},
