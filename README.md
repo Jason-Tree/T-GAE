@@ -63,20 +63,19 @@ If you find the code or data in this repo useful, please consider citing our pap
 If you find the data or code in this repo useful in your research, please consider citing our paper:
 
 ```bibtex
-@ARTICLE{2023arXiv231003272H,
-       author = {{He}, Jiashu and {Kanatsoulis}, Charilaos I. and {Ribeiro}, Alejandro},
-        title = "{T-GAE: Transferable Graph Autoencoder for Network Alignment}",
-      journal = {arXiv e-prints},
-     keywords = {Computer Science - Machine Learning, Computer Science - Artificial Intelligence},
-         year = 2023,
-        month = oct,
-          eid = {arXiv:2310.03272},
-        pages = {arXiv:2310.03272},
-          doi = {10.48550/arXiv.2310.03272},
-archivePrefix = {arXiv},
-       eprint = {2310.03272},
- primaryClass = {cs.LG},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv231003272H},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@InProceedings{pmlr-v269-he25a,
+  title = 	 {T-Gae: Transferable Graph Autoencoder for Network Alignment},
+  author =       {He, Jiashu and Kanatsoulis, Charilaos and Ribeiro, Alejandro},
+  booktitle = 	 {Proceedings of the Third Learning on Graphs Conference},
+  pages = 	 {40:1--40:25},
+  year = 	 {2025},
+  editor = 	 {Wolf, Guy and Krishnaswamy, Smita},
+  volume = 	 {269},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {26--29 Nov},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v269/main/assets/he25a/he25a.pdf},
+  url = 	 {https://proceedings.mlr.press/v269/he25a.html},
 }
+
 ```
