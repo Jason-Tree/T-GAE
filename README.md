@@ -59,19 +59,13 @@ MIT
 If you find the code or data in this repo useful, please consider citing our paper:
 
 ```bibtex
-@InProceedings{pmlr-v269-he25a,
-  title = 	 {T-Gae: Transferable Graph Autoencoder for Network Alignment},
-  author =       {He, Jiashu and Kanatsoulis, Charilaos and Ribeiro, Alejandro},
-  booktitle = 	 {Proceedings of the Third Learning on Graphs Conference},
-  pages = 	 {40:1--40:25},
-  year = 	 {2025},
-  editor = 	 {Wolf, Guy and Krishnaswamy, Smita},
-  volume = 	 {269},
-  series = 	 {Proceedings of Machine Learning Research},
-  month = 	 {26--29 Nov},
-  publisher =    {PMLR},
-  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v269/main/assets/he25a/he25a.pdf},
-  url = 	 {https://proceedings.mlr.press/v269/he25a.html},
+@inproceedings{
+he2024tgae,
+title={T-{GAE}: Transferable Graph Autoencoder for Network Alignment},
+author={Jiashu He and Charilaos Kanatsoulis and Alejandro Ribeiro},
+booktitle={The Third Learning on Graphs Conference},
+year={2024},
+url={https://openreview.net/forum?id=Lm48V5zrzh}
 }
 
 ```
